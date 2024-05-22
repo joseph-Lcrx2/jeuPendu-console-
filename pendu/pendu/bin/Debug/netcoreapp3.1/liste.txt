@@ -1,0 +1,15 @@
+coeur
+trefle
+pique
+coeur
+dictionnaire
+autoroute
+telephone
+cercle
+faucon
+olive
+seisme
+whisky
+sphinx
+igloo
+boeuf

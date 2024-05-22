@@ -1,0 +1,28 @@
+D:\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.exe
+D:\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.deps.json
+D:\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.runtimeconfig.json
+D:\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.runtimeconfig.dev.json
+D:\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.dll
+D:\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.pdb
+D:\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.csproj.AssemblyReference.cache
+D:\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.GeneratedMSBuildEditorConfig.editorconfig
+D:\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.AssemblyInfoInputs.cache
+D:\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.AssemblyInfo.cs
+D:\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.csproj.CoreCompileInputs.cache
+D:\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.dll
+D:\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.pdb
+D:\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.genruntimeconfig.cache
+D:\1 ere année\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.exe
+D:\1 ere année\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.deps.json
+D:\1 ere année\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.runtimeconfig.json
+D:\1 ere année\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.runtimeconfig.dev.json
+D:\1 ere année\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.dll
+D:\1 ere année\cour avec le D\pendu\pendu\bin\Debug\netcoreapp3.1\pendu.pdb
+D:\1 ere année\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.csproj.AssemblyReference.cache
+D:\1 ere année\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 ere année\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.AssemblyInfoInputs.cache
+D:\1 ere année\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.AssemblyInfo.cs
+D:\1 ere année\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.csproj.CoreCompileInputs.cache
+D:\1 ere année\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.dll
+D:\1 ere année\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.pdb
+D:\1 ere année\cour avec le D\pendu\pendu\obj\Debug\netcoreapp3.1\pendu.genruntimeconfig.cache
